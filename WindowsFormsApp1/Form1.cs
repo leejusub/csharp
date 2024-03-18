@@ -24,6 +24,7 @@ namespace WindowsFormsApp1
             //MessageBox.Show("Test");
             MessageBox.Show("안녕하세요");
             MessageBox.Show("반갑습니다");
+            MessageBox.Show("1234");
         }
     }
 }
